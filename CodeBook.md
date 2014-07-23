@@ -3,7 +3,7 @@ Hi! Welcome to the codebook.
 
 According to the Project, this is what we're supposed to describe here:
 
-*"...variables, the data, and any transformations or work that you performed to clean up the data..." *
+_"...variables, the data, and any transformations or work that you performed to clean up the data..."_
 
 Probably best to explain how machine learning works from a data preparation standpoint. Data are separated into features, also known as (independent, sometimes) variables, and outcomes, also known as labels, also known as (dependent) variables, depending upon your context. 
 
